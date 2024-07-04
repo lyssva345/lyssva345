@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyssva345)](https://solved.ac/lyssva345)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lyssva345)](https://solved.ac/lyssva345)<br/>
