@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={lyssva345})](https://solved.ac/{lyssva345})
-https://www.acmicpc.net/user/lyssva345
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyssva345)](https://solved.ac/lyssva345)
