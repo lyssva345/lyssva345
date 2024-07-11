@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=YunseoWorld&fontSize=70&fontColor=d6ace6&animation=fadeIn" />
 
-# 🌟 Welcome to YunseoWorld! 🌟
+# 🌟 Welcome to Yunseo World! 🌟
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -34,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Yunseo's GitHub Stats" />
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
