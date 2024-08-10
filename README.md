@@ -31,20 +31,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="[Yunseo's GitHub Stats](https://github.com/lyssva345)" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
